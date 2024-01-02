@@ -1,5 +1,9 @@
 # xy_file
 
+- zh_CN [简体中文](readme/README_zh_CN.md)
+- zh_TW [繁体中文](readme/README_zh_TW.md)
+- en [English](readme/README_en.md)
+
 ## 说明
 简单文件操作工具，特殊功能为不同路径匹配规则的添加。
 
@@ -7,9 +11,7 @@
 ## 安装
 
 ```
-    git clone https://github.com/Ship-of-Ocean/xy_file.git
-    cd xy_file
-    python setup.py install
+    pip install git+https://github.com/Ship-of-Ocean/xy_file.git --user
 ```
 
 ## 使用
