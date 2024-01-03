@@ -5,8 +5,8 @@
 - en [English](readme/README_en.md)
 
 如果小伙伴们觉得这些工具还不错的话，能否请咱喝一杯咖啡呢
-![微信](readme/WeChat.jpg)
-![支付宝](readme/Alipay.jpg)
+![微信](readme/WeChat.png)
+![支付宝](readme/Alipay.png)
 
 
 ## 说明
