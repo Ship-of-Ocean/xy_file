@@ -4,6 +4,10 @@
 - zh_TW [繁体中文](readme/README_zh_TW.md)
 - en [English](readme/README_en.md)
 
+If you think these tools are pretty good, Can you please have a cup of coffee?
+![WeChat](readme/WeChat.jpg)
+![Alipay](readme/Alipay.jpg)
+
 ## Description
 Easy File tools, especially for regular.
 

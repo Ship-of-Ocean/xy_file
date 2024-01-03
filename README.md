@@ -4,6 +4,11 @@
 - zh_TW [繁体中文](readme/README_zh_TW.md)
 - en [English](readme/README_en.md)
 
+如果小伙伴们觉得这些工具还不错的话，能否请咱喝一杯咖啡呢
+![微信](readme/WeChat.jpg)
+![支付宝](readme/Alipay.jpg)
+
+
 ## 说明
 简单文件操作工具，特殊功能为不同路径匹配规则的添加。
 
