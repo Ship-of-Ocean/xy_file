@@ -11,9 +11,7 @@
 ## 安装
 
 ```
-    git clone https://github.com/Ship-of-Ocean/xy_file.git
-    cd xy_file
-    python setup.py install
+    pip install xy_file
 ```
 
 ## 使用

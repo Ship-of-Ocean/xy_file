@@ -11,7 +11,7 @@
 ## 安裝
 
 ```
-    pip install git+https://github.com/Ship-of-Ocean/xy_file.git --user
+    pip install xy_file
 ```
 
 ## 使用

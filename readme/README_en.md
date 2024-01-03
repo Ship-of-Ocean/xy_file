@@ -11,7 +11,7 @@ Easy File tools, especially for regular.
 ## 安装
 
 ```
-    pip install git+https://github.com/Ship-of-Ocean/xy_file.git --user
+    pip install xy_file
 ```
 
 ## How to use
